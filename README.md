@@ -1,5 +1,7 @@
 # arrow-functions
-Arrow function is a  a more concise syntax for writing function expressions. It utilizes a new token, => 
+Arrow function is a  a more concise syntax for writing function expressions. It utilizes a new token, =>
+
+Two factors influenced the introduction of arrow functions: the need for shorter functions and the behavior of the this keyword.
 
 Arrow functions were introduced due to a need to write shorter functions.
 

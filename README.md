@@ -12,3 +12,6 @@ An arrow function does not have its own this keyword.
 
 Arrow functions can have either a block or a straight statement.
 If there are many arguements involved,then a block is ideal,but if it only involves one arguement then a straight simple arrow function is needed.
+
+// ES6
+let selected = allJobs.filter(job => job.isSelected());
